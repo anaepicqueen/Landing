@@ -1,0 +1,37 @@
+body 
+{
+	background: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+
+header
+{
+	background-image: url("../imgs/coverphoto.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 4em;
+	overflow: hidden;
+}
+
+header figure img
+{
+	display: block;
+	width: 350px;
+	margin: 5em auto 1em auto;
+	border-radius: 50%;
+	border: 4px solid white;
+}
+
+h1{
+
+	color: white;
+	display: block;
+}
+
+h3{
+	color: white;
+	display: block;
+
+}
